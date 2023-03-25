@@ -14,4 +14,4 @@ I am also an avid reader and enjoy learning about new technologies and innovatio
 
 - My GitHub profile showcases some of the projects I have worked on and the skills I have developed over time. I hope that you find my work interesting and informative, and I am always open to feedback and suggestions.
 
-- Feel free to reach out to me if you have any questions or just want to chat about technology and software engineering. Let's connect and build something amazing together!
+- Feel free to reach out to me if you have any questions or just want to chat about technology and software engineering. Let's connect and build something amazing together
